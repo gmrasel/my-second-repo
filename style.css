@@ -3,6 +3,7 @@ p{
     color: chartreuse;
 }
 h1{
+    background-color: darkviolet;
     color: crimson;
 }
 h3{
@@ -11,5 +12,6 @@ h3{
     width: 50%;
     border-radius: 10px;
     margin: 20px;
+    padding: 30px;
 
 }
