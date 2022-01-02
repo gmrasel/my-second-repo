@@ -5,3 +5,11 @@ p{
 h1{
     color: crimson;
 }
+h3{
+    background-color: cyan;
+    color: darkred;
+    width: 50%;
+    border-radius: 10px;
+    margin: 20px;
+
+}
